@@ -20,6 +20,9 @@ html{
 #greenwatch-logo{
     margin-top: 0%;
 }
+#app-table{
+  font-size: 13px;
+}
 #signout{
   background-color: #008000;
   border: none;
