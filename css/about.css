@@ -543,3 +543,16 @@ body {
         transition: 0.5s;
       }
   }
+
+     /* Media querries */
+@media only screen and (max-width: 600px) {
+  
+  #logo{
+     font-size: 25px;
+ 
+  }
+  #logo-img{
+   height: 55px;
+   width: 55px;
+  }
+}
