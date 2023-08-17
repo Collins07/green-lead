@@ -498,13 +498,13 @@
    @media only screen and (max-width: 600px) {
   
     #logo{
-       font-size: 25px;
-   
-    }
-    #logo-img{
-     height: 55px;
-     width: 55px;
-    }
+      font-size: 21px;
+  
+   }
+   #logo-img{
+    height: 46px;
+    width: 46px;
+   }
 }
 
 
